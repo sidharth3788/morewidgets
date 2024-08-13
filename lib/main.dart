@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:morewidgets/features/media_query.dart';
-import 'package:morewidgets/features/stack.dart';
 
 void main() {
   runApp(const MyApp());
